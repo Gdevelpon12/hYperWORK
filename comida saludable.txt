@@ -9,7 +9,13 @@ si no hay comida balanceada, no pensaras bien
 ajajja xd
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 chainsawmannnnn
 =======
 kimetsu
+>>>>>>> cabecera
+=======
+chainsawmannnnn
+
+cabecera - comida
 >>>>>>> cabecera
