@@ -10,6 +10,6 @@ goma
 
     jumbo el elefante orejon
 
-cabecera 2
+cabecera - historia
 
     la historia es compleja
