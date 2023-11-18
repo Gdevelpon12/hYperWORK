@@ -1,11 +1,15 @@
 hay que comer saludable 
 
-detalles watson 
+detalles watson  
 
-sherlock 
+su apodo sera cabezon
 
 si no hay comida balanceada, no pensaras bien
 
 ajajja xd
 
+<<<<<<< HEAD
 chainsawmannnnn
+=======
+kimetsu
+>>>>>>> cabecera
